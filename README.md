@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHANDAN HM basically a Mechanical Engineer, but intrestedin a IT Field. Because of creating new concepts & developing a new trends.91
 - 👀 I’m interested in React JS, Java, PYTHON & JAVASCRIPT FRONT END Devlop..
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java||Python||SQL||
 - 💞️ I’m looking to collaborate on Developing a new concept that can sence a sleep detecction in Cars's
 - 📫 How to reach me ...Email: chandanchanduhm4@gmail.com ; Phone No: +91 8105114625
  
