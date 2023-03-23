@@ -6,8 +6,9 @@
  
 -Linkedin Profile: http://www.linkedin.com/in/chandan-hm-b8319021a
 -
-https://th.bing.com/th/id/OIP.uzpNxGgeURnzRsxoyS3zMAHaEK?pid=ImgDet&rs=1
-<!---
+
+<!--![Git](https://user-images.githubusercontent.com/109410990/227244066-94abcaeb-3aa8-43dd-8dda-ee26cbdad0c3.jpg)
+-
 chandanhm1999/chandanhm1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
