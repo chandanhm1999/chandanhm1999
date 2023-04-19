@@ -6,7 +6,7 @@
 - Protfolio: https://my-protfolio-web-chandan-hm.vercel.app/
 - 
  
--Linkedin Profile: http://www.linkedin.com/in/chandan-hm-b8319021a
+-Linkedin Porfile: http://www.linkedin.com/in/chandan-hm-b8319021a
 -
 
 <!--![Git](https://user-images.githubusercontent.com/109410990/227244066-94abcaeb-3aa8-43dd-8dda-ee26cbdad0c3.jpg)
