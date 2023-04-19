@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Developing a new apps!
 - 📫 How to reach me ...Email: chandanchanduhm4@gmail.com ; Phone No: +91 8105114625
 - Portfolio: https://my-protfolio-web-chandan-hm.vercel.app/
-- Portfolio created by React, JavaScript, TilwindCss
+- Portfolio created by React, JavaScript, TilwindCss...!
  
 -Linkedin Porfile: http://www.linkedin.com/in/chandan-hm-b8319021a
 -
