@@ -1,6 +1,7 @@
 
 ```
-                                                             Hii I'm Chandan HM 👋
+                                                          Hii I'm Chandan HM 👋
+```
 
 - 👋 Hi, I’m CHANDAN HM Basically a Mechanical Engineer, but intrestedIn a IT Field. Because of creating new concepts & developing a new trends. Aim Cdevops!
 - 👀 I’m interested in React JS, Next JS, Java, PYTHON, Manual Testing, Sql, Web Technologies, Anjular JS, DSA & JAVASCRIPT FRONT END Devlop..
