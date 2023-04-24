@@ -4,6 +4,7 @@
 ```
                                               A Passionate Front-end developer from Karnataka!
 
+https://camo.githubusercontent.com/2f4c40cf3e9808d512488c64674ca171bae25ea1561601780320a4e114ca9100/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6468616e616e6a6179616e6f6e6c696e65266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 - 👋 Hi, I’m CHANDAN HM Basically a Mechanical Engineer, but intrestedIn a IT Field. Because of creating new concepts & developing a new trends. Aim Cdevops!
 - 👀 I’m interested in React JS, Next JS, Java, PYTHON, Manual Testing, Sql, Web Technologies, Anjular JS, DSA & JAVASCRIPT FRONT END Devlop..
 - 🌱 I’m currently learning Java || Python || SQL || Orcale || DSA || Automation Testing ||
