@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Chandan HM 👋</h1>
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.dropbox.com/s/w7m2wmlkb8nqsnh/HTML.html?dl=0">
+<img align="right" alt="Coding" width="400" src="![APPROVED2](https://user-images.githubusercontent.com/109410990/234632742-ebf9a0a0-8ce3-4dc0-a4d1-0bd2921810bd.jpg)">
 
 <p align="left"> <a href="https://twitter.com/twr_dhananjayan" target="blank"><img src="https://img.shields.io/twitter/follow/twr_dhananjayan?logo=twitter&style=for-the-badge" alt="twr_dhananjayan" /></a> </p>
 
