@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Chandan HM 👋</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
 
