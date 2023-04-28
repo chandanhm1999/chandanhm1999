@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript ect...**
 
-- 📫 How to reach me **chandanchanduhm4@gmail.com**
+- 📫 How to reach me **chandanchanduhm4@gmail.com** 📱 Phone: **+91-8105114625**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
