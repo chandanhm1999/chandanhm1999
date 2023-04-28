@@ -1,6 +1,5 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/business-developer-hand-using-kanban-board-2082257050)](https://rishavchanda.io)
 
-<h1 align="center">Hi I'm Chandan HM 👋</h1>
+<h1 align="center">Hi I'm Chandan HM 👋,</h1>
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
