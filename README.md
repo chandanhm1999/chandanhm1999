@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-protfolio-web-chandan-hm.vercel.app/](https://my-protfolio-web-chandan-hm.vercel.app/)
 
-- 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript ect...**
+- 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript etc...**
 
 - 📫 How to reach me **chandanchanduhm4@gmail.com** 📱 Phone: **+91-8105114625**
 
