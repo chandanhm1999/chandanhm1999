@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
 <img align="right" alt="Coding" width="400" src="./APPROVED1.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
 
 - 🔭 I’m currently working on [Own Projects](https://github.com/chandanhm1999)
 
