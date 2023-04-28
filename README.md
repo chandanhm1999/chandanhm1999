@@ -5,3 +5,10 @@
 
 - 🔭 I’m currently working on [Own Projects](https://github.com/chandanhm1999)
 
+- 🌱 I’m currently learning **Node Js and FastAPI**
+
+- 👨‍💻 All of my projects are available at [https://my-protfolio-web-chandan-hm.vercel.app/](https://my-protfolio-web-chandan-hm.vercel.app/)
+
+- 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript ect...**
+
+- 📫 How to reach me **chandanchanduhm4@gmail.com**
