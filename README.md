@@ -1,5 +1,5 @@
 <p align="center"><a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Chandan+HM;Web+Developer+%7C%7C+Front-End+Developer;Software+Engineer)](https://git.io/typing-svg" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Chandan+HM;Web+Developer+%7C%7C+Front-End+Developer;Software+Engineer" alt="Typing SVG" />
 </a></p>
 <h1 align="center">Hi I'm Chandan HM 👋,</h1>
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
