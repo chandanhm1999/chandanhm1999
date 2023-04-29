@@ -1,7 +1,6 @@
 <p align="center"><a href="https://github.com/chandanhm1999">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&duration=1000&pause=100&color=12CCC0&center=true&multiline=true&width=500&height=80&lines=Chandan+HM;%7C+React+%7C%7C+Front-End+Developer+%7C%7C+Full+Stack+Developer+%7C;Software+Engineer+" alt="Typing SVG" />
 </a></p>
-<h3><h3>
 <h1 align="center">Hi I'm Chandan HM 👋,</h1>
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
