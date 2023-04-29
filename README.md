@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.dE4ObnWQ46TFJp-QbPAkMAHaHa?w=178&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.tienle.com/wp-content/uploads/2017/11/react-native-logo.png" alt="heroku" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa?pid=ImgDet&rs=1" alt="c" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://xprimiendo.com/wp-content/uploads/2018/04/vue-js-thumb.png" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
