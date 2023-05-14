@@ -85,9 +85,10 @@
     <td>India</td>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Rayabhari Technologies</td>
+    <td><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Ecommerce-App</a></td>
+     <td><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
+    <td>India</td>
   </tr>
   <tr>
     <td>India</td>
