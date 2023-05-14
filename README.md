@@ -75,7 +75,7 @@
   <tr>
     <td>Java Mini Project!</td>
     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Github</a></td>
-     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1"></a></td>
+     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1"></a>Java</td>
     <td>India</td>
   </tr>
   <tr>
