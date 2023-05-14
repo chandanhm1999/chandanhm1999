@@ -75,15 +75,15 @@
   
   <tr>
     <td align="center">Rayabhari Technologies</td>
-    <td><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
-     <td><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
-    <td>India</td>
+    <td align="center"><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
+     <td align="center"><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
+    <td align="center">India</td>
   </tr>
   <tr>
-    <td>LetsEndorse</td>
-    <td><a href="https://github.com/chandanhm1999/react-js-loginpage-letsendorse">Git_Login_page</a></td>
-     <td><a href="https://react-js-loginpage-letsendorse.vercel.app/">Web Page</a></td>
-    <td>India</td>
+    <td align="center">LetsEndorse</td>
+    <td align="center"><a href="https://github.com/chandanhm1999/react-js-loginpage-letsendorse">Git_Login_page</a></td>
+     <td align="center"><a href="https://react-js-loginpage-letsendorse.vercel.app/">Web Page</a></td>
+    <td align="center">India</td>
   </tr>
   <tr>
     <td>Buena Logica Technologies</td>
