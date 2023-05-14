@@ -72,7 +72,7 @@
     <th>Country</th>
   </tr>
   <tr>
-    <td>[Own Projects](https://github.com/chandanhm1999)</td>
+    <td>on [Own Projects](https://github.com/chandanhm1999)</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
