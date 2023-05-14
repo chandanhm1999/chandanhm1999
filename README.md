@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chandanchanduhm4@gmail.com** 📱 Phone: **+91-8105114625**
 
-- Technologist on Microsoft Teams 15.0 Testimonials [Projects](https://github.com/chandanhm1999/Testimonials)
+- <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png 2x" alt="Technologist on Microsoft Teams 15.0" width="120" height="120"> Testimonials [Projects](https://github.com/chandanhm1999/Testimonials)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
