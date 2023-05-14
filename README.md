@@ -69,12 +69,14 @@
   <tr>
     <th>Company</th>
     <th>Project Details!</th>
+    <th>Live Link!</th>
     <th>Country</th>
   </tr>
   <tr>
-     <td><a href="https://github.com/chandanhm1999">Github</a></td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Java Mini Project!</td>
+    <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Github</a></td>
+    <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1"></td>
+    <td>India</td>
   </tr>
   <tr>
     <td>India</td>
