@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chandanchanduhm4@gmail.com** 📱 Phone: **+91-8105114625**
 
-- 🔭 Testimonials [Projects](https://github.com/chandanhm1999/Testimonials)
+- Technologist on Microsoft Teams 15.0 Testimonials [Projects](https://github.com/chandanhm1999/Testimonials)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,7 +65,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandanhm1999&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandanhm1999&theme=swift&utcOffset=8)
 
 <details>
-<summary>📈 Testimonials</summary>
+<summary>💁 Testimonials</summary>
 <br>
 <table>
   <tr>
