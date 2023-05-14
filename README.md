@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **chandanchanduhm4@gmail.com** 📱 Phone: **+91-8105114625**
 
+- 🔭 Testimonials [Projects](https://github.com/chandanhm1999/Testimonials)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chandanhm1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chandanhm" height="30" width="40" /></a>
