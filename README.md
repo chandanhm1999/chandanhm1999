@@ -85,7 +85,7 @@
      <td align="center"><a href="https://react-js-loginpage-letsendorse.vercel.app/">Web Page</a></td>
     <td align="center">India</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Buena Logica Technologies</td>
     <td><a href="https://github.com/chandanhm1999/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
      <td><a href="https://csb-dxtdge-chandanhm1999.vercel.app/">CatalogViewer</a></td>
