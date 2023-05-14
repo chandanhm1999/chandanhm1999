@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&duration=1000&pause=100&color=F7A311FF&center=true&multiline=true&width=500&height=80&lines=Chandan+HM;%7C+React+%7C%7C+Front-End+Developer+%7C%7C+Full+Stack+Developer+%7C;Software+Engineer+" alt="Typing SVG" />
 </a></p>
 <br>
-<h1 align="center">Hi I'm Chandan HM 👋,</h1>
+<h1 align="center" color="red">Hi I'm Chandan HM 👋,</h1>
 <h3 align="center">A passionate Front-End developer from Karnataka</h3>
 
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
