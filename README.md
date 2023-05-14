@@ -63,7 +63,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandanhm1999&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandanhm1999&theme=swift&utcOffset=8)
 
 <details>
-<summary>📈 Testamonils</summary>
+<summary>📈 Testimonials</summary>
 <br>
 <table>
   <tr>
@@ -77,8 +77,8 @@
     <td>Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>India</td>
+    <td>India</td>
+    <td>India</td>
   </tr>
 </table>
