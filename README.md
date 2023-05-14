@@ -81,4 +81,14 @@
     <td>India</td>
     <td>India</td>
   </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>India</td>
+    <td>India</td>
+    <td>India</td>
+  </tr>
 </table>
