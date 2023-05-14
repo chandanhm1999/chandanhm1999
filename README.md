@@ -72,10 +72,11 @@
     <th>Live Link!</th>
     <th>Country</th>
   </tr>
+  
   <tr>
-    <td>Kodnest</td>
-    <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
-     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Java</a></td>
+    <td>Rayabhari Technologies</td>
+    <td><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
+     <td><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
     <td>India</td>
   </tr>
   <tr>
@@ -85,9 +86,9 @@
     <td>India</td>
   </tr>
   <tr>
-    <td>Rayabhari Technologies</td>
-    <td><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
-     <td><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
+    <td>Buena Logica Technologies</td>
+    <td><a href="https://github.com/chandanhm1999/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
+     <td><a href="https://csb-dxtdge-chandanhm1999.vercel.app/">CatalogViewer</a></td>
     <td>India</td>
   </tr>
   <tr>
@@ -111,19 +112,13 @@
   <tr>
     <td>uExcelerate</td>
     <td><a href="https://github.com/chandanhm1999/react-programs-series1">Git_React!</a></td>
-     <td><a href="https://github.com/chandanhm1999/react-programs-series1"></a>React</td>
+     <td><a href="https://github.com/chandanhm1999/react-programs-series1">React</a></td>
     <td>India</td>
   </tr>
   <tr>
     <td>Ideas- I2E</td>
     <td><a href="https://github.com/chandanhm1999/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
-     <td><a href="https://loginpage-i2e-reactjs.vercel.app/"></a>Web App</td>
-    <td>India</td>
-  </tr>
-  <tr>
-    <td>Buena Logica Technologies</td>
-    <td><a href="https://github.com/chandanhm1999/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
-     <td><a href="https://csb-dxtdge-chandanhm1999.vercel.app/">CatalogViewer</a></td>
+     <td><a href="https://loginpage-i2e-reactjs.vercel.app/">Web App</a></td>
     <td>India</td>
   </tr>
   <tr>
@@ -136,6 +131,12 @@
     <td>Medpick</td>
     <td><a href="https://github.com/chandanhm1999/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
      <td><a href="data-chart-home-page-design.vercel.app">Data Analytics</a></td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>Kodnest</td>
+    <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
+     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Java</a></td>
     <td>India</td>
   </tr>
 </table>
