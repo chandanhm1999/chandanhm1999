@@ -92,6 +92,18 @@
     <td>India</td>
   </tr>
   <tr>
+    <td>Ideas- I2E</td>
+    <td><a href="https://github.com/chandanhm1999/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
+     <td><a href="https://loginpage-i2e-reactjs.vercel.app/">Web App</a></td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>Medpick</td>
+    <td><a href="https://github.com/chandanhm1999/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
+     <td><a href="data-chart-home-page-design.vercel.app">Data Analytics</a></td>
+    <td>India</td>
+  </tr>
+  <tr>
     <td>Emitrr</td>
     <td><a href="https://github.com/chandanhm1999/Web-Game-App-Reactjs-Kitten">Git_Exploding-Kitten</a></td>
      <td><a href="https://github.com/chandanhm1999/Web-Game-App-Reactjs-Kitten">Exploding-Kitten</a></td>
@@ -115,24 +127,14 @@
      <td><a href="https://github.com/chandanhm1999/react-programs-series1">React</a></td>
     <td>India</td>
   </tr>
-  <tr>
-    <td>Ideas- I2E</td>
-    <td><a href="https://github.com/chandanhm1999/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
-     <td><a href="https://loginpage-i2e-reactjs.vercel.app/">Web App</a></td>
-    <td>India</td>
-  </tr>
+  
   <tr>
     <td>Intershala</td>
     <td><a href="https://github.com/chandanhm1999/chat-bot-react-Native">Git_ReactNative</a></td>
      <td><a href="https://github.com/chandanhm1999/chat-bot-react-Native">ReactNative</a></td>
     <td>India</td>
   </tr>
-  <tr>
-    <td>Medpick</td>
-    <td><a href="https://github.com/chandanhm1999/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
-     <td><a href="data-chart-home-page-design.vercel.app">Data Analytics</a></td>
-    <td>India</td>
-  </tr>
+  
   <tr>
     <td>Kodnest</td>
     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
