@@ -68,11 +68,11 @@
 <table>
   <tr>
     <th>Company</th>
-    <th>Contact</th>
+    <th>Project Details!</th>
     <th>Country</th>
   </tr>
   <tr>
-    <td>on [Own Projects](https://github.com/chandanhm1999)</td>
+     <td><a href="https://github.com/chandanhm1999">Github</a></td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
