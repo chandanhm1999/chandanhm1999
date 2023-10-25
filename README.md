@@ -8,7 +8,9 @@
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanhm&label=Profile%20views&color=0e75b6&style=flat" alt="chandanhm" /> </p>
 
-- 🔭 I’m currently working on [Own Projects](https://github.com/chandanhm1999)
+- 🔭 I’m currently working on [US Projects](https://github.com/chandanhm1999)
+
+- </>💻 **Associate Software Engineer** at **Nuvteq Solutions** [PERN STACK]
 
 - 🌱 I’m currently learning **Node Js and FastAPI**
 
