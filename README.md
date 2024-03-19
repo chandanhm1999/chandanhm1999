@@ -114,12 +114,6 @@
     <td>India</td>
   </tr>
   <tr align="center">
-    <td>Discover Dollar Tech..</td>
-    <td><a href="https://github.com/chandanhm1999/tavel-search-react-app-task">Git_UI Design</a></td>
-     <td><a href="https://github.com/chandanhm1999/tavel-search-react-app-task">UI Design</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
     <td>Contenterra</td>
     <td><a href="https://github.com/chandanhm1999/React-Posts-Axious-ContenTerra">Git_Api_Data-Fetching!</a></td>
      <td><a href="https://react-posts-axious-conten-terra.vercel.app/">Api-App</a></td>
