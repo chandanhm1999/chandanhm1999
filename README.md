@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [US Projects](https://github.com/chandanhm1999)
 
-- </>💻 **Associate Software Engineer** at **Nuvteq Solutions** [PERN STACK]
+- </>💻 **Software Engineer** at **Nuvteq Solutions** [PERN STACK]
 
 - 🌱 I’m currently learning **Node Js and FastAPI**
 
